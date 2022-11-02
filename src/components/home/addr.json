@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_home_addrs",
+  "info": {
+    "displayName": "addr",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "country": {
+      "type": "string"
+    },
+    "city": {
+      "type": "string"
+    }
+  }
+}

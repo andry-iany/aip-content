@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_home_addresses",
+  "info": {
+    "displayName": "addresses",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "util.cta"
+    },
+    "address": {
+      "displayName": "addr",
+      "type": "component",
+      "repeatable": true,
+      "component": "home.addr"
+    }
+  }
+}

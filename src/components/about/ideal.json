@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_about_ideals",
+  "info": {
+    "displayName": "ideal",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "body": {
+      "type": "string"
+    }
+  }
+}

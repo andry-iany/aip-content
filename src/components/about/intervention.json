@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_about_interventions",
+  "info": {
+    "displayName": "intervention"
+  },
+  "options": {},
+  "attributes": {
+    "snippet": {
+      "type": "string"
+    },
+    "body": {
+      "type": "string"
+    }
+  }
+}

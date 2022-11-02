@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_cta_ctas",
+  "info": {
+    "displayName": "button",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "string"
+    }
+  }
+}

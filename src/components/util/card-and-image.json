@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_page_section_card_and_images",
+  "info": {
+    "displayName": "card_and_image",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "body": {
+      "type": "text"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "util.cta"
+    }
+  }
+}
