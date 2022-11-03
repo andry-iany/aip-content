@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_solution_sectors",
+  "info": {
+    "displayName": "sector"
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "string"
+    },
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

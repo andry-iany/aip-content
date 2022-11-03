@@ -9,13 +9,8 @@
     "title": {
       "type": "string"
     },
-    "body": {
-      "type": "text"
-    },
-    "button": {
-      "type": "component",
-      "repeatable": false,
-      "component": "util.cta"
+    "content": {
+      "type": "richtext"
     }
   }
 }

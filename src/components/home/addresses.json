@@ -6,11 +6,6 @@
   },
   "options": {},
   "attributes": {
-    "button": {
-      "type": "component",
-      "repeatable": false,
-      "component": "util.cta"
-    },
     "address": {
       "displayName": "addr",
       "type": "component",
